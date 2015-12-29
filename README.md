@@ -1,3 +1,3 @@
 # alpine-postfix
 
-alpine-linux based postfix container
+alpine linux based postfix container
